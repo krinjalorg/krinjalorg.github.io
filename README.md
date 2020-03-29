@@ -1,2 +1,0 @@
-# krinjalorg.github.io
-Krinjal
