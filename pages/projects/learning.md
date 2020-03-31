@@ -22,7 +22,7 @@ Currently, 1870 students are taking this class.
 - [all python operators](https://www.w3schools.com/python/python_operators.asp)
 
 - [to create your own notebook](https://colab.research.google.com/)
-- i will post assignment here soon. so keep checking back here.
+- [assignment](https://colab.research.google.com/drive/1IKxiVWtn8QUHtXHZDI-2RBDmnPiNToVn#scrollTo=ibhDxSVZTRF-)
 
 Please do not post your answer in slack, let other learn on their own.
 If someone asks a question in slack and you want to help, then don't write whole code for them; instead just help them by telling them what they need to change.
