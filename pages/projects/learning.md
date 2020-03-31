@@ -28,4 +28,5 @@ Please do not post your answer in slack, let other learn on their own.
 If someone asks a question in slack and you want to help, then don't write whole code for them; instead just help them by telling them what they need to change.
 
 > Donation
-> in case you want to buy me or my tutor a cup of cofee here is [paypal link](paypal.me/kshitij)
+
+in case you want to buy me or my tutor a cup of cofee here is [paypal link](paypal.me/kshitij)
