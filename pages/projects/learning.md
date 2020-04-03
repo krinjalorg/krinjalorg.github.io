@@ -35,4 +35,4 @@ If someone asks a question in slack and you want to help, then don't write whole
 
 > Donation
 
-in case you want to buy me or my tutor a cup of cofee here is [paypal link](paypal.me/kshitij)
+in case you want to buy me or my tutor a cup of cofee here is [paypal link](httos://paypal.me/kshitij)
