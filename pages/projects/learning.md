@@ -24,6 +24,12 @@ Currently, 1870 students are taking this class.
 - [to create your own notebook](https://colab.research.google.com/)
 - [assignment](https://colab.research.google.com/drive/1IKxiVWtn8QUHtXHZDI-2RBDmnPiNToVn#scrollTo=ibhDxSVZTRF-)
 
+> Lecture 2
+
+- [lecture video](https://www.youtube.com/watch?v=n2gy2Z4NIqI)
+- [notebook that i used in lecture](https://colab.research.google.com/drive/1crN0gJyOSFhOMc9eW6d1LQ_J8Sw7DTbk)
+- [python datatypes](https://www.w3schools.com/python/python_datatypes.asp)
+
 Please do not post your answer in slack, let other learn on their own.
 If someone asks a question in slack and you want to help, then don't write whole code for them; instead just help them by telling them what they need to change.
 
