@@ -30,9 +30,20 @@ Currently, 1870 students are taking this class.
 - [notebook that i used in lecture](https://colab.research.google.com/drive/1crN0gJyOSFhOMc9eW6d1LQ_J8Sw7DTbk)
 - [python datatypes](https://www.w3schools.com/python/python_datatypes.asp)
 
+> Lecture 3
+
+- [lecture video](https://youtu.be/IDm6v4AF4wA)
+- [notebook that i used in lecture](https://colab.research.google.com/drive/1ijPPfaqmbeK8LiPDo5mmW_fRevzr920c)
+- [python list](https://www.w3schools.com/python/python_lists.asp)
+
 Please do not post your answer in slack, let other learn on their own.
 If someone asks a question in slack and you want to help, then don't write whole code for them; instead just help them by telling them what they need to change.
 
 > Donation
 
 in case you want to buy me or my tutor a cup of cofee here is [paypal link](https://paypal.me/kshitij)
+
+> Office Hour
+
+My office hour is 8 am - 9 am (central time) and 11 pm - 11:59 pm (central time).
+Please post in #python or #random channel (at aforementioned time) in slack, if you need office hour.
