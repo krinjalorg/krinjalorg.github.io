@@ -10,25 +10,15 @@ Also, there are many people who are not on the board/team but whenever Krinjal n
 
 ## Krinjal Core Team
 
-### Founder
+Founder - [Kshitij Raj Lohani](https://facebook.com/kshitij.lohani)
 
-[Kshitij Raj Lohani](https://facebook.com/kshitij.lohani)
+Managing Director - [Arju Lohani](https://www.facebook.com/aarju.lohani.7)
 
-### Managing Director
+Go to person - [Satkar Karki](https://www.facebook.com/satkar.karki.5)
 
-[Arju Lohani](https://www.facebook.com/aarju.lohani.7)
+Pahilo Kadam Lead - [Ashraya Raja Baral](https://www.facebook.com/aashraya.gems)
 
-### Go to person
-
-[Satkar Karki](https://www.facebook.com/satkar.karki.5)
-
-### Pahilo Kadam Lead
-
-[Ashraya Raja Baral](https://www.facebook.com/aashraya.gems)
-
-### Shikshya Dikshya Lead
-
-[Aashish Lamichane](https://www.facebook.com/LcAashish)
+Shikshya Dikshya Lead - [Aashish Lamichane](https://www.facebook.com/LcAashish)
 
 ## Want to join us ?
 

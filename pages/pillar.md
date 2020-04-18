@@ -28,3 +28,7 @@ There are many people who are not on the board/team but whenever Krinjal needs t
   - The most experience one. Always saves us from the problem.
 - Yash
   - Makes sure we get our mind relaxed with his music and helping nature
+- Abhishek Gyawali
+  - digital posters even before i ask for it
+- Hari Ojha
+  - his support is my confidence
