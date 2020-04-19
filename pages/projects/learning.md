@@ -4,7 +4,7 @@ title: Learning
 permalink: /projects/learning/
 ---
 
-This is a temporary site for Krinjal-Learning. Main site is under construction.
+This is a temporary website for Krinjal-Learning. Main site is under construction.
 
 We have started Krinjal Learning with "Basic Python Course".
 We are taking this class as an experiment to collect data that will provide help
