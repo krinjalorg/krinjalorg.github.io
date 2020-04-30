@@ -49,6 +49,7 @@ Currently, 1870 students are taking this class.
 
 - [lecture video](https://youtu.be/F1Yl_cW3NiQ)
 - [notebook that i used in lecture](https://colab.research.google.com/drive/1kihA3INpCfgNLhq2TsZy2Z6CgT3K0loY)
+- [assignment](https://colab.research.google.com/drive/15cHNLWquA0bifYwtlnagmEMQqHa0hcEu#scrollTo=oM_RhKxRv_yG)
 - [python for loop](https://www.w3schools.com/python/python_for_loops.asp)
 - [python while loop](https://www.w3schools.com/python/python_while_loops.asp)
 
