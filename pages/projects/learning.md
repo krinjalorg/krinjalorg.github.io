@@ -43,6 +43,15 @@ Currently, 1870 students are taking this class.
 - [lecture video](https://youtu.be/IPpihX4h6O8)
 - [notebook that i used in lecture](https://colab.research.google.com/drive/1vZUV8rk9z3BvPkeE0Lz8oOL7v2ntsnOH)
 - [python for loop](https://www.w3schools.com/python/python_for_loops.asp)
+- [assignment](https://colab.research.google.com/drive/1iHudABs_uz4sw0BU2fovzBgHs2TnOoz2)
+
+> Lecture 5
+
+- [lecture video](https://youtu.be/F1Yl_cW3NiQ)
+- [notebook that i used in lecture](https://colab.research.google.com/drive/1kihA3INpCfgNLhq2TsZy2Z6CgT3K0loY)
+- [assignment](https://colab.research.google.com/drive/15cHNLWquA0bifYwtlnagmEMQqHa0hcEu#scrollTo=oM_RhKxRv_yG)
+- [python for loop](https://www.w3schools.com/python/python_for_loops.asp)
+- [python while loop](https://www.w3schools.com/python/python_while_loops.asp)
 
 > Donation
 
@@ -50,8 +59,16 @@ in case you want to buy me or my tutor a cup of cofee here is [paypal link](http
 
 > Office Hour
 
-My office hour is 8 am - 9 am (central time) and 11 pm - 11:59 pm (central time).
-Please post in #python or #random channel (at aforementioned time) in slack, if you need office hour.
+Kshitij
+
+- Saturday 11 am - 11:40 am (Central time i.e, Austin, TX time)
+- Saturday 9 pm - 9:40 pm (Central time i,e, Austin, Tx time)
+
+you can use [this converter](https://www.timeanddate.com/worldclock/converter.html?iso=20200429T020000&p1=24) to find time in your time zone
+
+Kaushik
+
+- Kaushik will soon add his office hour to go over assignments
 
 Please do not post your answer in slack, let other learn on their own.
 If someone asks a question in slack and you want to help, then don't write whole code for them; instead just help them by telling them what they need to change.
