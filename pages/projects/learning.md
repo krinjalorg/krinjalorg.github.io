@@ -6,11 +6,13 @@ permalink: /projects/learning/
 
 This is a temporary website for Krinjal-Learning. Main site is under construction.
 
-We have started Krinjal Learning with "Basic Python Course".
+We have started Krinjal Learning with "Basic Python Course in Nepali".
 We are taking this class as an experiment to collect data that will provide help
 us to make krinjal learning experience for other courses in future better.
 
 Currently, 1870 students are taking this class.
+
+**Lectures**
 
 > Lecture 0
 
@@ -53,11 +55,21 @@ Currently, 1870 students are taking this class.
 - [python for loop](https://www.w3schools.com/python/python_for_loops.asp)
 - [python while loop](https://www.w3schools.com/python/python_while_loops.asp)
 
-> Donation
+> Lecture 6
+
+- [lecture video](https://youtu.be/myRr7vSk5hI)
+- [notebook that i used in lecture](https://colab.research.google.com/drive/1a8tZq7HFitUbD_sqvgH3ALbZU4sAtiM3?usp=sharing)
+- [python dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
+
+**Basic Assginment**
+
+- [Basic Assignment 1](https://colab.research.google.com/drive/1GJRKvvxvPXJ_oy1XncBvX7FNVekitPBO?usp=sharing#scrollTo=bFr86GJdOfrx)
+
+**Donation**
 
 in case you want to buy me or my tutor a cup of cofee here is [paypal link](https://paypal.me/kshitij)
 
-> Office Hour
+**Office Hour**
 
 Kshitij
 
