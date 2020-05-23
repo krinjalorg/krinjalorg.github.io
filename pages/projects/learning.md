@@ -61,6 +61,18 @@ Currently, 1870 students are taking this class.
 - [notebook that i used in lecture](https://colab.research.google.com/drive/1a8tZq7HFitUbD_sqvgH3ALbZU4sAtiM3?usp=sharing)
 - [python dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
 
+> Lecture 7
+
+- [lecture video](https://youtu.be/lHQibxUhDSI)
+- [notebook that i used in lecture](https://colab.research.google.com/drive/1OLi5NNqckx1RFmUhUlSDDA8_j7uVU0Ij?usp=sharing)
+- [python functions](https://www.w3schools.com/python/python_functions.asp)
+
+> Lecture 8
+
+- [lecture video](https://youtu.be/6TH-76_AuZI)
+- [notebook that i used in lecture](https://colab.research.google.com/drive/1sUFKmwsG_NSgeqR6EkQ2DeuzIy4tt5j5?usp=sharing)
+- [python functions](https://www.w3schools.com/python/python_functions.asp)
+
 **Basic Assginment**
 
 - [Basic Assignment 1](https://colab.research.google.com/drive/1GJRKvvxvPXJ_oy1XncBvX7FNVekitPBO?usp=sharing#scrollTo=bFr86GJdOfrx)
