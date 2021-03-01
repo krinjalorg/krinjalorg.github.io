@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "krinjal.org",
-  "Id": "23b34c9e-ffe5-4ecc-afa3-6439347d9dad"
-}
